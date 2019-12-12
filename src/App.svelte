@@ -1,5 +1,8 @@
 <script>
+  import { Modal } from 'carbon-components/umd/components/modal/modal.js';
 
+  const modalElement = document.getElementById('modal-wq5sc7lrwyo');
+  const modalInstance = Modal.create(modalElement);
 </script>
 
 <button

@@ -1,28 +1,5 @@
-// @import "carbon-components/scss/globals/scss/_colors";
-// @import "carbon-components/scss/globals/scss/_css--body";
-// @import "carbon-components/scss/globals/scss/_css--font-face";
-// @import "carbon-components/scss/globals/scss/_css--helpers";
-// @import "carbon-components/scss/globals/scss/_css--reset";
-// @import "carbon-components/scss/globals/scss/_deprecate";
-// @import "carbon-components/scss/globals/scss/_feature-flags";
-// @import "carbon-components/scss/globals/scss/_functions";
-// @import "carbon-components/scss/globals/scss/_helper-classes";
-// @import "carbon-components/scss/globals/scss/_helper-mixins";
-// @import "carbon-components/scss/globals/scss/_import-once";
-// @import "carbon-components/scss/globals/scss/_layer";
-// @import "carbon-components/scss/globals/scss/_layout";
-// @import "carbon-components/scss/globals/scss/_motion";
-// @import "carbon-components/scss/globals/scss/_spacing";
-// @import "carbon-components/scss/globals/scss/_theme-tokens";
-// @import "carbon-components/scss/globals/scss/_theme";
-// @import "carbon-components/scss/globals/scss/_tooltip";
-// @import "carbon-components/scss/globals/scss/_typography";
-// @import "carbon-components/scss/globals/scss/_vars";
-// @import "carbon-components/scss/globals/scss/styles";
 // @import "carbon-components/scss/components/button/_button";
-// @import "carbon-components/scss/components/modal/_modal";
-
-  @import "carbon-components/scss/components/**/*";
+@import "carbon-components/scss/components/modal/_modal";
 
 .container {
   padding: 30px;
